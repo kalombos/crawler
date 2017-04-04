@@ -10,6 +10,6 @@
 
 ## Running
 
-1. Type **scrapy load -d 2** to run spider 
-2. Type **scrapy get -n 5** to get data from storage
+1. Type **scrapy load http://ura.ru -d 2** to run spider 
+2. Type **scrapy get http://ura.ru -n 5** to get data from storage
 3. Type **scrapy command -h** to get more information about command options
